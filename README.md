@@ -1,5 +1,8 @@
 # my_nx_addon_doc
-A repository for NX addon program development.
+
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)  
+
+A repository for NX addon program development.  
 
 开新坑，慢慢填。
 
